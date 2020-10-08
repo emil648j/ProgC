@@ -1,6 +1,6 @@
 # ProgC
 Programmering C HTX
 
-[Profil](profil.html)
-[Den bedste kage](opskrift.html)
+[Profil](Min Kage/profil.html)
+[Den bedste kage](Min Kage/opskrift.html)
 
