@@ -5,3 +5,4 @@ Programmering C HTX
 [Den bedste kage](Min Kage/opskrift.html)
 
 [Tændstikmand](Tændstikmand/index.html)
+[Logik](logiske_operatorer/ANDORNOT.js)
